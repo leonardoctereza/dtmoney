@@ -1,6 +1,7 @@
 # Dtmoney
 
-This is a react project that simulates a simple personal financial control page.
+This is a project made to learn React.
+This app is a simple personal financial control page.
 
 ## Available Scripts
 
